@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rivindubandara
-- 👀 I’m interested in Computing
-- 🌱 I’m currently learning Front-End Development
+- 👀 I’m a Computational Designer at nettletontribe in Sydney
+- 🌱 I’m currently working on an Embodied Carbon and an Early Planning Tool.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me, rivindub@gmail.com
+- 📫 How to reach me, rivindub@gmail.com or rivindubandara@nettletontribe.com.au
 
 <!---
 rivindubandara/rivindubandara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
